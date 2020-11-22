@@ -1,0 +1,24 @@
+{
+  "name": "tenAutoplay-example",
+  "version": "1.0.0",
+  "description": "tenAutoplay music bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/skick1234/DisTube-Example.git"
+  },
+  "author": "Skick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skick1234/DisTube-Example/issues"
+  },
+  "homepage": "https://github.com/skick1234/DisTube-Example#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "distube": "^2.5.1"
+  }
+}
